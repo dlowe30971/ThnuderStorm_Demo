@@ -1,0 +1,12 @@
+mp3 description of files
+0001.mp3	4s		Thunder clap with small rumble
+0002.mp3	2s		Distance rumble
+0003.mp3	16s		Thunder clap with long rumble
+0004.mp3	7s		Thunder clap with medium rumble
+0005.mp3	2s		Thunder clap
+0006.mp3	16s		Distance thunder
+0007.mp3	22s		Loud thunder clap
+0008.mp3	14s		Lightning Strike
+0009.mp3  23s   multiple Loud thunder claps and rumble 
+0010.mp3  20s   Long rumble
+0011.mp3  3.04  mutliple thunder and rumble effects (needs to be slpit up).
